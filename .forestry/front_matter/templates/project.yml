@@ -16,6 +16,11 @@ fields:
   label: categories
   config:
     use_select: false
+- name: gallery
+  type: image_gallery
+  config: {}
+  label: Gallery
+  description: Gallery text
 pages:
 - projects/molecular-gastronomy.md
 - projects/the-london-book-fair.md
