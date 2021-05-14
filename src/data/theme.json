@@ -5,19 +5,9 @@
   "email": "nichlas@itsnwa.com",
   "social": [
     {
-      "channel": "twitter",
-      "handle": "nichlaswa",
-      "link_text": "tw"
-    },
-    {
       "channel": "instagram",
       "handle": "its.nwa",
       "link_text": "ig"
-    },
-    {
-      "channel": "github",
-      "handle": "itsnwa",
-      "link_text": "gh"
     }
   ]
 }
