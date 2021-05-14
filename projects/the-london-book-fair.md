@@ -4,6 +4,10 @@ thumbnail: "../static/uploads/c0279e51944227.58ff649a8bbfb.jpg"
 year: "2017"
 categories:
 - Branding
+gallery:
+- "../static/uploads/f0076d51944227.58ff649a8df3e.jpg"
+- "../static/uploads/f5739b60883469.5a5cccc987c40.jpg"
+- "../static/uploads/f6477e60883469.5a5cccc98834b.jpg"
 
 ---
 This project was created by [\[explicit\]](https://www.behance.net/explic_it), visit their Behance profile for more awesomeness.
